@@ -22,7 +22,6 @@ I'm just a person that finds inspiration in being productive in some way or anot
 
 ***
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzfex77&label=COOL%20PEOPLE&labelColor=%23f47373&countColor=%23ff8a65) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzfex77%2Fsimplehtmls&label=SIMPLE%20HTML%20ENJOYERS&labelColor=%23ffc75a&countColor=%23e0aa3f)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzfex77&label=COOL%20PEOPLE&labelColor=%23f47373&countColor=%23ff8a65)
 
 
