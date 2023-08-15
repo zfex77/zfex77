@@ -4,7 +4,7 @@
 
 I'm just a person that finds inspiration in being productive in some way or another. I might upload some repos from here to there... 
 *** 
-  <img align="right" alt="GIF" width="450px" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" />
+  <img align="right" alt="GIF" width="300px" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" />
 
 
 ![grade](https://github-readme-stats.vercel.app/api?username=zfex77&show_icons=true&hide_border=true&theme=dark)
